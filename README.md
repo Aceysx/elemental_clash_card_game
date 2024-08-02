@@ -199,6 +199,8 @@ Elemental Clash 是一款令人兴奋的元素主题卡牌对战游戏。在这�
 - 技能：剧毒 - 无论造成多少伤害都会消灭目标生物。
 - Skill: Poisonous - Destroys any creature it damages.
 
+### 技能卡
+
 <div align="center"><img src="./cards/Thunderstrike.png" width="50%"/></div>
 
 14. 雷霆一击 (Thunderstrike)
@@ -294,7 +296,6 @@ Elemental Clash 是一款令人兴奋的元素主题卡牌对战游戏。在这�
 - 费用：5
 - 技能：结束你的回合后，获得一个额外回合。
 - Skill: Take an extra turn after this one.
-
 
 <div align="center"><img src="./cards/Healing%20Light.png" width="50%"/></div>
 

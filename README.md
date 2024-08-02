@@ -1,4 +1,6 @@
-# Elemental Clash - 奇幻生物对决
+<div align="center"><img src="./cards/card.jpg" width="80%"/></div>
+
+<div align="center"><h3>Elemental Clash - 奇幻生物对决</h3></div>
 
 ## 项目介绍
 
@@ -6,9 +8,11 @@ Elemental Clash 是一款令人兴奋的元素主题卡牌对战游戏。在这�
 
 ## 背景故事
 
-在一个被元素力量主宰的世界里，四大元素学院培养着最优秀的元素法师。每年，这些学院都会举办一场盛大的 Elemental Clash 锦标赛，来决定谁是最强大的元素掌控者。作为一名有抱负的年轻法师，你将踏上成为元素大师的征程。
+在一个被元素力量主宰的世界里，四大元素学院培养着最优秀的元素法师。每年，这些学院都会举办一场盛大的 Elemental Clash
+锦标赛，来决定谁是最强大的元素掌控者。作为一名有抱负的年轻法师，你将踏上成为元素大师的征程。
 
 ## 游戏规则
+
 1. 游戏准备
     - 每位玩家准备一副30张卡片的卡组，包括生物卡和技能卡
     - 双方各抽5张卡作为起始手牌
@@ -70,6 +74,7 @@ Elemental Clash 是一款令人兴奋的元素主题卡牌对战游戏。在这�
     - 部分卡牌可能与行动点累积机制产生互动
 
 ## 策略要点:
+
 1. 卡组构筑：根据策略偏好，平衡生物卡和技能卡的数量，建立特色卡组
 2. 资源管理：合理分配能量点和行动点，在召唤生物、使用技能和攻击间找到平衡
 3. 场面控制：通过生物的战略性放置和技能卡的巧妙运用，控制场上局势
@@ -80,11 +85,13 @@ Elemental Clash 是一款令人兴奋的元素主题卡牌对战游戏。在这�
 8. 预判对策：推测对手可能的行动，提前做好应对准备
 
 ## 卡牌详情
+
 ### 生物卡
 
 <div align="center"><img src="./cards/Shield%20Warrior.png" width="50%"/></div>
 
 1. 盾牌战士 (Shield Warrior)
+
 - 类型：生物 (Creature)
 - 费用：2
 - ATK: 1 | HP: 4 | DEF: 4
@@ -94,6 +101,7 @@ Elemental Clash 是一款令人兴奋的元素主题卡牌对战游戏。在这�
 <div align="center"><img src="./cards/Rock%20Golem.png" width="50%"/></div>
 
 2. 岩石傀儡 (Rock Golem)
+
 - 类型：生物 (Creature)
 - 费用：2
 - ATK: 2 | HP: 4 | DEF: 2
@@ -103,15 +111,17 @@ Elemental Clash 是一款令人兴奋的元素主题卡牌对战游戏。在这�
 <div align="center"><img src="./cards/Forest%20Elf.png" width="50%"/></div>
 
 3. 森林精灵 (Forest Elf)
+
 - 类型：生物 (Creature)
 - 费用：2
 - ATK: 2 | HP: 3 | DEF: 1
-- 技能：敏捷 - 可以在召唤的回合立即攻击。 
+- 技能：敏捷 - 可以在召唤的回合立即攻击。
 - Skill: Haste - Can attack immediately when summoned.
 
 <div align="center"><img src="./cards/Brave%20Squire.png" width="50%"/></div>
 
 4. 勇敢的见习骑士 (Brave Squire)
+
 - 类型：生物 (Creature)
 - 费用：1
 - ATK: 1 | HP: 2 | DEF: 1
@@ -121,6 +131,7 @@ Elemental Clash 是一款令人兴奋的元素主题卡牌对战游戏。在这�
 <div align="center"><img src="./cards/Magic%20Apprentice.png" width="50%"/></div> 
 
 5. 魔法学徒 (Magic Apprentice)
+
 - 类型：生物 (Creature)
 - 费用：2
 - ATK: 1 | HP: 3 | DEF: 1
@@ -130,6 +141,7 @@ Elemental Clash 是一款令人兴奋的元素主题卡牌对战游戏。在这�
 <div align="center"><img src="./cards/Water%20Elemental.png" width="50%"/></div>
 
 6. 水元素 (Water Elemental)
+
 - 类型：生物 (Creature)
 - 费用：2
 - ATK: 1 | HP: 3 | DEF: 1
@@ -139,6 +151,7 @@ Elemental Clash 是一款令人兴奋的元素主题卡牌对战游戏。在这�
 <div align="center"><img src="./cards/Fire%20Mage.png" width="50%"/></div>
 
 7. 火焰术士 (Fire Mage)
+
 - 类型：生物 (Creature)
 - 费用：2
 - ATK: 2 | HP: 2 | DEF: 1
@@ -148,6 +161,7 @@ Elemental Clash 是一款令人兴奋的元素主题卡牌对战游戏。在这�
 <div align="center"><img src="./cards/Gargoyle.png" width="50%"/></div>
 
 8. 石像鬼 (Gargoyle)
+
 - 类型：生物 (Creature)
 - 费用：2
 - ATK: 1 | HP: 3 | DEF: 2
@@ -157,6 +171,7 @@ Elemental Clash 是一款令人兴奋的元素主题卡牌对战游戏。在这�
 <div align="center"><img src="./cards/Raging%20Orc.png" width="50%"/></div>
 
 9. 狂暴兽人 (Raging Orc)
+
 - 类型：生物 (Creature)
 - 费用：2
 - ATK: 3 | HP: 3 | DEF: 1
@@ -166,6 +181,7 @@ Elemental Clash 是一款令人兴奋的元素主题卡牌对战游戏。在这�
 <div align="center"><img src="./cards/Shadow%20Assassin.png" width="50%"/></div>
 
 10. 暗影刺客 (Shadow Assassin)
+
 - 类型：生物 (Creature)
 - 费用：3
 - ATK: 3 | HP: 2 | DEF: 1
@@ -175,6 +191,7 @@ Elemental Clash 是一款令人兴奋的元素主题卡牌对战游戏。在这�
 <div align="center"><img src="./cards/Bear%20Guardian.png" width="50%"/></div>
 
 11. 巨熊守卫 (Bear Guardian)
+
 - 类型：生物 (Creature)
 - 费用：3
 - ATK: 2 | HP: 5 | DEF: 3
@@ -184,6 +201,7 @@ Elemental Clash 是一款令人兴奋的元素主题卡牌对战游戏。在这�
 <div align="center"><img src="./cards/Wizard%20Apprentice.png" width="50%"/></div>
 
 12. 巫师学徒 (Wizard Apprentice)
+
 - 类型：生物 (Creature)
 - 费用：2
 - ATK: 1 | HP: 3 | DEF: 1
@@ -193,6 +211,7 @@ Elemental Clash 是一款令人兴奋的元素主题卡牌对战游戏。在这�
 <div align="center"><img src="./cards/Venomous%20Spider.png" width="50%"/></div>
 
 13. 剧毒蜘蛛 (Venomous Spider)
+
 - 类型：生物 (Creature)
 - 费用：2
 - ATK: 1 | HP: 2 | DEF: 1
@@ -204,6 +223,7 @@ Elemental Clash 是一款令人兴奋的元素主题卡牌对战游戏。在这�
 <div align="center"><img src="./cards/Thunderstrike.png" width="50%"/></div>
 
 14. 雷霆一击 (Thunderstrike)
+
 - 类型：法术 (Spell)
 - 费用：3
 - 技能：造成3点伤害，目标被击晕一回合。
@@ -212,6 +232,7 @@ Elemental Clash 是一款令人兴奋的元素主题卡牌对战游戏。在这�
 <div align="center"><img src="./cards/Dragon's%20Breath.png" width="50%"/></div>
 
 15. 龙息术 (Dragon's Breath)
+
 - 类型：法术 (Spell)
 - 费用：3
 - 技能：对所有敌方生物造成2点伤害。
@@ -220,6 +241,7 @@ Elemental Clash 是一款令人兴奋的元素主题卡牌对战游戏。在这�
 <div align="center"><img src="./cards/Holy%20Shield.png" width="50%"/></div>
 
 16. 圣光护盾 (Holy Shield)
+
 - 类型：法术 (Spell)
 - 费用：1
 - 技能：为一个生物提供一次免疫伤害的护盾。
@@ -228,6 +250,7 @@ Elemental Clash 是一款令人兴奋的元素主题卡牌对战游戏。在这�
 <div align="center"><img src="./cards/Frost%20Nova.png" width="50%"/></div>
 
 17. 冰霜新星 (Frost Nova)
+
 - 类型：法术 (Spell)
 - 费用：3
 - 技能：冻结所有敌方生物一回合。
@@ -236,6 +259,7 @@ Elemental Clash 是一款令人兴奋的元素主题卡牌对战游戏。在这�
 <div align="center"><img src="./cards/Life%20Drain.png" width="50%"/></div>
 
 18. 生命汲取 (Life Drain)
+
 - 类型：法术 (Spell)
 - 费用：3
 - 技能：造成3点伤害，恢复你3点生命值。
@@ -244,6 +268,7 @@ Elemental Clash 是一款令人兴奋的元素主题卡牌对战游戏。在这�
 <div align="center"><img src="./cards/Summon%20Elemental.png" width="50%"/></div>
 
 19. 召唤元素 (Summon Elemental)
+
 - 类型：法术 (Spell)
 - 费用：2
 - 技能：随机召唤一个2/2的元素生物。
@@ -252,6 +277,7 @@ Elemental Clash 是一款令人兴奋的元素主题卡牌对战游戏。在这�
 <div align="center"><img src="./cards/Divine%20Punishment.png" width="50%"/></div>
 
 20. 神圣惩戒 (Divine Punishment)
+
 - 类型：法术 (Spell)
 - 费用：4
 - 技能：消灭一个攻击力大于或等于5的敌方生物。
@@ -260,6 +286,7 @@ Elemental Clash 是一款令人兴奋的元素主题卡牌对战游戏。在这�
 <div align="center"><img src="./cards/War%20Stomp.png" width="50%"/></div>
 
 21. 战争践踏 (War Stomp)
+
 - 类型：法术 (Spell)
 - 费用：3
 - 技能：对所有敌方生物造成1点伤害并使其眩晕一回合。
@@ -268,6 +295,7 @@ Elemental Clash 是一款令人兴奋的元素主题卡牌对战游戏。在这�
 <div align="center"><img src="./cards/Arcane%20Intellect.png" width="50%"/></div>
 
 22. 奥术智慧 (Arcane Intellect)
+
 - 类型：法术 (Spell)
 - 费用：2
 - 技能：抽两张牌。
@@ -276,6 +304,7 @@ Elemental Clash 是一款令人兴奋的元素主题卡牌对战游戏。在这�
 <div align="center"><img src="./cards/Firestorm.png" width="50%"/></div>
 
 23. 火焰风暴 (Firestorm)
+
 - 类型：法术 (Spell)
 - 费用：4
 - 技能：对所有生物造成3点伤害。
@@ -284,6 +313,7 @@ Elemental Clash 是一款令人兴奋的元素主题卡牌对战游戏。在这�
 <div align="center"><img src="./cards/Nature's%20Power.png" width="50%"/></div>
 
 24. 自然之力 (Nature's Power)
+
 - 类型：法术 (Spell)
 - 费用：3
 - 技能：使你所有的生物获得+1/+1。
@@ -292,6 +322,7 @@ Elemental Clash 是一款令人兴奋的元素主题卡牌对战游戏。在这�
 <div align="center"><img src="./cards/Time%20Warp.png" width="50%"/></div>
 
 25. 时间扭曲 (Time Warp)
+
 - 类型：法术 (Spell)
 - 费用：5
 - 技能：结束你的回合后，获得一个额外回合。
@@ -300,6 +331,7 @@ Elemental Clash 是一款令人兴奋的元素主题卡牌对战游戏。在这�
 <div align="center"><img src="./cards/Healing%20Light.png" width="50%"/></div>
 
 26. 治愈之光 (Healing Light)
+
 - 类型：法术 (Spell)
 - 费用：1
 - 技能：恢复4点生命值。
@@ -308,6 +340,7 @@ Elemental Clash 是一款令人兴奋的元素主题卡牌对战游戏。在这�
 <div align="center"><img src="./cards/Mana%20Charge.png" width="50%"/></div>
 
 27. 魔力充能 (Mana Charge)
+
 - 类型：法术 (Spell)
 - 费用：1
 - 技能：获得2点额外能量。
@@ -316,6 +349,7 @@ Elemental Clash 是一款令人兴奋的元素主题卡牌对战游戏。在这�
 <div align="center"><img src="./cards/Magic%20Missile.png" width="50%"/></div>
 
 28. 魔法飞弹 (Magic Missile)
+
 - 类型：法术 (Spell)
 - 费用：1
 - 技能：造成2点伤害。
@@ -324,6 +358,7 @@ Elemental Clash 是一款令人兴奋的元素主题卡牌对战游戏。在这�
 <div align="center"><img src="./cards/Fireball.png" width="50%"/></div>
 
 29. 火球术 (Fireball)
+
 - 类型：法术 (Spell)
 - 费用：2
 - 技能：造成4点伤害。
@@ -332,6 +367,7 @@ Elemental Clash 是一款令人兴奋的元素主题卡牌对战游戏。在这�
 <div align="center"><img src="./cards/Mirror%20Image.png" width="50%"/></div>
 
 30. 魔法镜像 (Mirror Image)
+
 - 类型：法术 (Spell)
 - 费用：2
 - 技能：复制一个友方生物，创造一个1/1的复制品。
